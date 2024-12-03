@@ -1,3 +1,9 @@
+body{ 
+    margin: 0;
+    padding: 0;
+}
+
+
 section{ 
     background: #1F2937;
     padding: 20px;
@@ -153,4 +159,13 @@ section{
     border: 2px solid white;
     border-radius: 20px;
     cursor: pointer;
+}
+
+footer{ 
+    display: flex;
+    justify-content: center;
+    background: #1F2937;
+    color: white;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
 }
