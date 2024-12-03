@@ -102,3 +102,17 @@ section{
     border-radius: 10px;
 }
 
+
+
+.container4{ 
+    background-color: #E5E7EB;
+}
+
+.container4 p{ 
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.autor{ 
+    font-weight: bold;
+}
